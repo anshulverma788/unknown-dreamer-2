@@ -655,4 +655,7 @@
     bottom: 30vh;
     left: 25vw;
   }
+  .p-1{
+  font-size: 13px;
+ }
 }
